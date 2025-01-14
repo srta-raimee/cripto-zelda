@@ -2,7 +2,7 @@
 
 PT-BR
 
-Apesar do nome fofo e da referência a Zelda, CUIDADO!! Esse repositório contém um ransonware aimples desenvolvido por mim que é capaz de criptografar alguns arquivos da sua máquina. Claro, dá pra reverter com a chave binária que eu predeterminei, mas mesmo assim cuidado. Foi criado para fins didáticos utilizando python e algumas bibliotecas como OS, base64 e pyinstaller, a partir do código de um desafio CTF (Capture the Flag) do qual participei. 
+Apesar do nome fofo e da referência a Zelda, CUIDADO!! Esse repositório contém um ransonware simples desenvolvido por mim que é capaz de criptografar alguns arquivos da sua máquina. Claro, dá pra reverter com a chave binária que eu predeterminei, mas mesmo assim cuidado. Foi criado para fins didáticos utilizando python e algumas bibliotecas como OS, base64 e pyinstaller, a partir do código de um desafio CTF (Capture the Flag) do qual participei. 
 
 Dica do dia: Não baixe executáveis que você encontra na internet por aí XD
 
