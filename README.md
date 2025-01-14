@@ -1,4 +1,4 @@
-# cripto-zelda
+# CryptoZelda
 
 PT-BR
 
